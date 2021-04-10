@@ -1,0 +1,21 @@
+body{
+    /* background: rgb(216,167,148);
+  background: linear-gradient(275deg, rgba(216,167,148,1) 74%, rgba(222,98,98,1) 100%); */
+  background-image: linear-gradient(to left, rgba(255,0,0,0), rgba(255,0,0,1));
+
+  }
+  
+  .second{
+    margin: 2rem 0.5rem;
+  }
+  
+  .cardImage{
+    width: 5rem;
+    align-self: center;
+    margin:30px 0px;
+  }
+  
+  .cardStyle{
+    /* border-radius: 30px; */
+    padding: 10px;
+  }
